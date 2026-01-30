@@ -33771,21 +33771,21 @@
 		(dnp no)
 		(uuid "cf7cfffd-ca36-4bc4-bc43-6e7b2a65e8f0")
 		(property "Reference" "CE518"
-			(at 227.33 232.41 0)
+			(at 219.456 233.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "100uF 10V"
-			(at 227.33 234.95 0)
+			(at 219.456 236.474 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
