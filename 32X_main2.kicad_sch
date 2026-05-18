@@ -28298,7 +28298,7 @@
 			)
 		)
 	)
-	(global_label "OIR"
+	(global_label "IOR"
 		(shape output)
 		(at 275.59 231.14 0)
 		(fields_autoplaced yes)
