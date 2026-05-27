@@ -213,6 +213,10 @@ is more than sufficient.
   may be preferable if you are using a video scaler. YMMV, so do what works for your
   particular setup.
 
+* Unofficial support from experienced builders and other knowledgable individuals is
+  available (on a purely voluntary basis) in [this help channel][Discord] on
+  *Dubesinhower's Modding Community* Discord server.
+
 
 ### Order of Operations
 
@@ -288,6 +292,9 @@ testing and troubleshooting. The following is a suggested order of operations.
 
   * The rest of the Board Folk for their support and general coolness.
 
+  * Dubesinhower and the modding community members on Discord for generously supporting
+    builders.
+
 
 ## Legal
 
@@ -317,6 +324,7 @@ of merchantability and fitness for a particular purpose.
 [ASICs]: https://consolemods.org/wiki/Genesis:ASIC_Information
 [240p]: https://junkerhq.net/xrgb/index.php?title=240p_test_suite
 [MachoNachoVideo]: https://youtu.be/PcP60-0NIEw
+[Discord]: https://discord.com/channels/762433496878547005/1508890749356343466
 [PromoVideo]: https://youtu.be/aF1uoOP9WqM
 [PromoVideoThumbnail]: https://raw.githubusercontent.com/Board-Folk/Neptune/master/img/neptune_thumbnail_play.jpg
 [RetroRGBCDVideo]: https://youtube.com/live/Pf0_TwquWg0
