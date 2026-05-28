@@ -257,7 +257,10 @@ testing and troubleshooting. The following is a suggested order of operations.
   /AS signals to the cartridge slot. /YS has a labeled test point for this near
   pin B12 on the underside of the slot. /AS can be connected by bridging pins 8
   and 12 on the footprint for `IC516`. Remove these connections before installing
-  the remaining 32X hardware.
+  the remaining 32X hardware. Note that the bypass flexes are intended to confirm
+  basic functionality, i.e. that the console can boot and run code. Some strange
+  behaviour or various glitches (especially related to video and audio) may be
+  experienced until all components are fitted.
 
 * When testing a newly-built Neptune, trying different kinds of cartridges and
   peripherals is useful for troubleshooting issues. Original Mega Drive cartridges
