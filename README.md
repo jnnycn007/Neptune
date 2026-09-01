@@ -59,7 +59,7 @@ are any outstanding fixes that should be applied to your particular board revisi
   for [testing this live][RetroRGBCDVideo]).
 * As the 32X hardware is integrated into the design, there is NO way to disable this.
 * No mono audio output.
-* No Dual Frequency Oscillator (DSO) is built in but, should you opt to install
+* No Dual Frequency Oscillator (DFO) is built in but, should you opt to install
   one that fits in the original oscillator footprint, a pad for the PAL/NTSC
   switching signal is provided close by.
 
